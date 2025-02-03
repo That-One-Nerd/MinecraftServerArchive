@@ -1,2 +1,87 @@
-# MinecraftServerArchive
-Old worlds that have been completed.
+# Archive/ModdedCreateSurvival
+
+This was the first "REAL" server I can say I ran. It used a modpack I made that relied heavily on the Create mod and addons.
+
+- Runtime: **11/27/2024 to 2/2/2025** (68 days)
+- Version: Minecraft **1.19.2**, Forge **43.3.0**
+- Mods Used:
+    - Ad Astra **v1.12.7**
+    - Ad Astra Delight **v1.0.2.1**
+    - Alex's Mobs **v1.21.1**
+    - Architectury API **v6.6.92**
+    - Attribute Fix **v17.2.8**
+    - AutoRegLib **v1.8.2-55**
+    - Balm **v4.6.0**
+    - Better Compatibility Checker **v1.0.10-build.50**
+    - Biomes O' Plenty **v17.1.1.162**
+    - Botarium **v1.9.2**
+    - Citadel **v2.1.4**
+    - Clumps **v9.0.0**
+    - Create **v0.5.1.i**
+    - Create Ad Astra Compat **v1.0.3**
+    - Create: Bells & Whistles **v0.4.4**
+    - Create Big Cannons **v5.6.0**
+    - Create Central Kitchen **v1.3.11.c**
+    - Create Compressed **v1.0.1**
+    - Create Confectionery **v1.0.9**
+    - Create: Connected **v0.8.2**
+    - Create: Copycats+ **v2.1.4**
+    - Create Crafts & Additions **v1.2.3**
+    - Create: Crystal Clear **v0.2.1**
+    - Create Deco **v1.3.3**
+    - Create: Design n' Decor **v0.4**
+    - Create: Diesel Generators **v1.2h**
+    - Create Enchantment Industry **v1.2.9.e**
+    - Create: Extended Cogwheels **v2.1.1**
+    - Create: Factory **v0.0.2**
+    - Create: Interiors **v0.5.6-build.105**
+    - Create Jetpack **v3.4.2**
+    - Create: Liquid Fuel **v2.1.1**
+    - Create: Misc & Things **v4.0A**
+    - Create Ore Excavation **v1.2.3**
+    - Create: Power Loader **v1.5.0**
+    - Create Recycle Everything **v1.0.2**
+    - Create Slice & Dice **v2.4.0**
+    - Create: Steam 'n' Rails **v1.6.6**
+    - Create Stuff & Additions **v2.0.5**
+    - Curios API **v5.1.6.4**
+    - Enemy Expansion **v2.4.0**
+    - Entity Culling **v1.6.1**
+    - Farmer's Delight **1.2.4**
+    - Farmer's Respite **v2.0**
+    - FerriteCore **v5.0.3**
+    - Fusion **v1.1.1**
+    - GeckoLib **v3.1.40**
+    - GraveStone Mod **v1.0.24**
+    - Gravestone x Curios API Compat **v1.0.0**
+    - Immersive Armors **v1.5.6**
+    - Immersive Engineering **v9.2.4-170**
+    - Immersive Petroleum **4.2.0-29**
+    - Just Enough Immersive Multiblocks **v0.0.3**
+    - Just Enough Items (JEI) **v11.6.0.1019**
+    - Just Enough Resources (JER) **v1.2.3.243**
+    - Kotlin for Forge **v3.12.0**
+    - Lazy DataFixerUpper (LazyDFU) **v1.0.2**
+    - Legacy: [Let's Do] Bakery **1.0.6**
+    - [Let's Do] API **v1.1.0b**
+    - Moonlight Lib **v2.3.7**
+    - Nature's Compass **v1.10.0**
+    - Not Enough Animations **v1.8.2**
+    - Oculus **v1.6.9**
+    - Polymorph **v0.46.6**
+    - Quark **v3.4-418**
+    - Rechiseled **v1.1.6**
+    - Rechiseled: Create **v1.0.2**
+    - Resourceful Config **v1.0.20**
+    - Resourceful Lib **v1.1.24**
+    - Rubidium **0.6.2c**
+    - Sophisticated Backpacks **v3.20.2.1035**
+    - Sophisticated Core **v0.6.4.730**
+    - Sophisticated Storage **v0.9.7.765**
+    - SuperMartijn642's Config Lib **v1.1.8**
+    - SuperMartijn642's Core Lib **v1.1.17**
+    - Supplementaries **v2.4.20**
+    - TerraBlender **v2.0.1.136**
+    - Waystones **11.4.2**
+    - Xaero's Minimap **v24.6.1**
+    - Xaero's World Map **v1.39.0**

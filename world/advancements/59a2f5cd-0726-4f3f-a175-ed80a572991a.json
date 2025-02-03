@@ -1,0 +1,104 @@
+{
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "rocky_rainforest": "2025-01-13 20:13:40 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-01-13 19:58:09 -0500"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2025-01-13 19:58:09 -0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-01-13 19:59:04 -0500"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_recipe": "2025-01-13 19:58:09 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-01-13 20:04:00 -0500"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_recipe": "2025-01-13 19:58:09 -0500"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2025-01-13 19:59:04 -0500"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass": {
+    "criteria": {
+      "has_compass": "2025-01-13 19:58:09 -0500"
+    },
+    "done": true
+  },
+  "create_connected:root": {
+    "criteria": {
+      "0": "2025-01-13 19:58:09 -0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2025-01-13 20:08:58 -0500"
+    },
+    "done": false
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "woodland": "2025-01-13 21:14:32 -0500",
+      "shrubland": "2025-01-13 21:15:34 -0500",
+      "mystic_grove": "2025-01-13 21:15:32 -0500",
+      "old_growth_woodland": "2025-01-13 20:20:32 -0500",
+      "redwood_forest": "2025-01-13 21:15:47 -0500",
+      "cherry_blossom_grove": "2025-01-13 21:14:52 -0500",
+      "rocky_rainforest": "2025-01-13 20:13:40 -0500",
+      "rainforest": "2025-01-13 21:13:46 -0500"
+    },
+    "done": false
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-01-13 21:28:51 -0500"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/wooden": {
+    "criteria": {
+      "has_item": "2025-01-13 21:16:38 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:birch_forest": "2025-01-13 21:15:01 -0500",
+      "minecraft:sparse_jungle": "2025-01-13 19:58:10 -0500",
+      "minecraft:river": "2025-01-13 20:27:15 -0500",
+      "minecraft:jungle": "2025-01-13 20:42:45 -0500",
+      "minecraft:plains": "2025-01-13 20:01:03 -0500"
+    },
+    "done": false
+  },
+  "DataVersion": 3120
+}

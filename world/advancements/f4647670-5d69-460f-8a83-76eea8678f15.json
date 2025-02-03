@@ -1,0 +1,827 @@
+{
+  "alexsmobs:alexsmobs/emu": {
+    "criteria": {
+      "killed_by": "2025-01-11 14:10:12 -0500"
+    },
+    "done": true
+  },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2025-01-07 10:12:11 -0500",
+      "1": "2025-01-07 10:12:16 -0500"
+    },
+    "done": true
+  },
+  "create:deployer": {
+    "criteria": {
+      "0": "2025-01-07 17:35:48 -0500"
+    },
+    "done": true
+  },
+  "create:red_signal": {
+    "criteria": {
+      "0": "2025-01-09 13:20:00 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sugar_cane": "2025-01-06 12:21:30 -0500",
+      "wheat": "2025-01-06 15:30:36 -0500",
+      "carrot": "2025-01-10 16:13:50 -0500"
+    },
+    "done": false
+  },
+  "alexsmobs:alexsmobs/stomp_leafcutter_anthill": {
+    "criteria": {
+      "ex": "2025-01-09 08:46:00 -0500"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed_by": "2025-01-14 16:28:54 -0500"
+    },
+    "done": true
+  },
+  "create:arm_blaze_burner": {
+    "criteria": {
+      "0": "2025-01-15 14:32:17 -0500"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass": {
+    "criteria": {
+      "has_compass": "2025-01-06 11:18:38 -0500"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2025-01-06 12:37:09 -0500"
+    },
+    "done": true
+  },
+  "create:track_signal": {
+    "criteria": {
+      "0": "2025-01-09 13:18:53 -0500"
+    },
+    "done": true
+  },
+  "create:backtank": {
+    "criteria": {
+      "0": "2025-01-10 16:30:12 -0500"
+    },
+    "done": true
+  },
+  "create:andesite_alloy": {
+    "criteria": {
+      "0": "2025-01-06 13:09:07 -0500"
+    },
+    "done": true
+  },
+  "quark:get_all_blossom_saplings": {
+    "criteria": {
+      "yellow": "2025-01-19 14:55:21 -0500"
+    },
+    "done": false
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-01-06 11:46:19 -0500"
+    },
+    "done": true
+  },
+  "create:steam_engine": {
+    "criteria": {
+      "0": "2025-01-10 16:33:29 -0500"
+    },
+    "done": true
+  },
+  "create:mechanical_mixer": {
+    "criteria": {
+      "0": "2025-01-06 18:33:07 -0500"
+    },
+    "done": true
+  },
+  "create:water_wheel": {
+    "criteria": {
+      "0": "2025-01-06 13:52:36 -0500"
+    },
+    "done": true
+  },
+  "create:mechanical_arm": {
+    "criteria": {
+      "0": "2025-01-15 14:34:22 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-01-06 11:55:56 -0500"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-01-06 11:47:37 -0500"
+    },
+    "done": true
+  },
+  "create:super_glue": {
+    "criteria": {
+      "0": "2025-01-07 10:27:11 -0500"
+    },
+    "done": true
+  },
+  "create:mechanical_press": {
+    "criteria": {
+      "0": "2025-01-06 13:53:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-01-06 11:44:50 -0500"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:experienced_engineer": {
+    "criteria": {
+      "have_experience_nugget": "2025-01-07 12:23:55 -0500"
+    },
+    "done": true
+  },
+  "create:stressometer": {
+    "criteria": {
+      "0": "2025-01-09 11:32:09 -0500"
+    },
+    "done": true
+  },
+  "create:portable_storage_interface": {
+    "criteria": {
+      "0": "2025-01-12 12:42:50 -0500"
+    },
+    "done": true
+  },
+  "create:glass_pipe": {
+    "criteria": {
+      "0": "2025-01-11 17:27:21 -0500"
+    },
+    "done": true
+  },
+  "create:potato_cannon": {
+    "criteria": {
+      "0": "2025-01-13 16:52:28 -0500"
+    },
+    "done": true
+  },
+  "create:self_deploying": {
+    "criteria": {
+      "0": "2025-01-08 13:02:54 -0500"
+    },
+    "done": true
+  },
+  "create:mechanical_crafter": {
+    "criteria": {
+      "0": "2025-01-06 18:56:43 -0500"
+    },
+    "done": true
+  },
+  "create:funnel": {
+    "criteria": {
+      "0": "2025-01-12 13:38:26 -0500"
+    },
+    "done": true
+  },
+  "quark:get_all_corundum": {
+    "criteria": {
+      "red": "2025-01-16 15:20:32 -0500",
+      "orange": "2025-01-18 07:44:55 -0500",
+      "green": "2025-01-18 08:25:21 -0500",
+      "blue": "2025-01-16 15:26:41 -0500",
+      "white": "2025-01-17 18:37:43 -0500",
+      "yellow": "2025-01-16 15:51:28 -0500",
+      "violet": "2025-01-16 15:23:29 -0500",
+      "black": "2025-01-16 15:23:38 -0500",
+      "indigo": "2025-01-06 11:23:13 -0500"
+    },
+    "done": true
+  },
+  "create:windmill_maxed": {
+    "criteria": {
+      "0": "2025-01-09 16:34:46 -0500"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito_larva": {
+    "criteria": {
+      "rat_upgrade_basic": "2025-01-12 09:53:43 -0500"
+    },
+    "done": true
+  },
+  "enemyexpansion:wasp_drone_summon": {
+    "criteria": {
+      "wasp_drone_summon_0": "2025-01-08 17:48:45 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2025-01-18 19:44:36 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "tomato_seeds": "2025-01-07 11:59:39 -0500"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/slime": {
+    "criteria": {
+      "has_item": "2025-01-06 13:44:05 -0500"
+    },
+    "done": true
+  },
+  "create:sturdy_sheet": {
+    "criteria": {
+      "0": "2025-01-07 11:06:57 -0500"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/bone": {
+    "criteria": {
+      "has_item": "2025-01-06 12:29:54 -0500"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/steampunk": {
+    "criteria": {
+      "has_item": "2025-01-16 06:51:38 -0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "apple": "2025-01-07 17:07:20 -0500",
+      "mutton": "2025-01-06 18:23:53 -0500",
+      "bread": "2025-01-06 15:39:24 -0500",
+      "rotten_flesh": "2025-01-09 05:39:41 -0500",
+      "cookie": "2025-01-09 07:19:38 -0500",
+      "cooked_chicken": "2025-01-09 06:49:08 -0500",
+      "carrot": "2025-01-11 10:21:57 -0500"
+    },
+    "done": false
+  },
+  "alexsmobs:alexsmobs/banana": {
+    "criteria": {
+      "banana": "2025-01-06 11:37:07 -0500"
+    },
+    "done": true
+  },
+  "create:chute": {
+    "criteria": {
+      "0": "2025-01-06 14:04:59 -0500"
+    },
+    "done": true
+  },
+  "create:brass": {
+    "criteria": {
+      "0": "2025-01-06 18:33:31 -0500"
+    },
+    "done": true
+  },
+  "create:mechanical_pump_0": {
+    "criteria": {
+      "0": "2025-01-11 16:35:56 -0500"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "rocky_rainforest": "2025-01-06 11:36:21 -0500"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:a_shower_experience": {
+    "criteria": {
+      "builtin": "2025-01-16 17:40:09 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-01-06 12:55:41 -0500"
+    },
+    "done": true
+  },
+  "create:train": {
+    "criteria": {
+      "0": "2025-01-08 12:53:41 -0500"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_recipe": "2025-01-06 11:18:38 -0500"
+    },
+    "done": true
+  },
+  "enemyexpansion:hunted": {
+    "criteria": {
+      "hunted_0": "2025-01-07 10:06:39 -0500"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rattlesnake": {
+    "criteria": {
+      "killed": "2025-01-17 18:51:34 -0500"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/murmur": {
+    "criteria": {
+      "killed_by": "2025-01-16 15:50:52 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-01-06 11:20:18 -0500"
+    },
+    "done": true
+  },
+  "create:burner": {
+    "criteria": {
+      "0": "2025-01-06 16:01:17 -0500"
+    },
+    "done": true
+  },
+  "create:track_0": {
+    "criteria": {
+      "0": "2025-01-07 17:37:24 -0500"
+    },
+    "done": true
+  },
+  "create:precision_mechanism": {
+    "criteria": {
+      "0": "2025-01-08 12:52:42 -0500"
+    },
+    "done": true
+  },
+  "create:contraption_actors": {
+    "criteria": {
+      "0": "2025-01-07 10:29:33 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-01-07 11:00:42 -0500"
+    },
+    "done": true
+  },
+  "create:windmill": {
+    "criteria": {
+      "0": "2025-01-09 16:02:51 -0500"
+    },
+    "done": true
+  },
+  "create:rose_quartz": {
+    "criteria": {
+      "0": "2025-01-06 18:53:42 -0500"
+    },
+    "done": true
+  },
+  "immersiveengineering:tools/craft_revolver": {
+    "criteria": {
+      "has_item": "2025-01-07 10:22:40 -0500"
+    },
+    "done": true
+  },
+  "create:haunted_bell": {
+    "criteria": {
+      "0": "2025-01-22 11:09:32 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:magma_cube": "2025-01-06 11:47:09 -0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2025-01-16 06:57:02 -0500"
+    },
+    "done": false
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-01-06 12:46:38 -0500"
+    },
+    "done": true
+  },
+  "create_connected:root": {
+    "criteria": {
+      "0": "2025-01-06 11:18:38 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2025-01-12 10:44:27 -0500"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-01-06 11:49:50 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-01-06 11:56:16 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-01-06 11:20:44 -0500"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "woodland": "2025-01-08 16:05:08 -0500",
+      "shrubland": "2025-01-06 12:15:32 -0500",
+      "scrubland": "2025-01-10 16:10:02 -0500",
+      "bayou": "2025-01-17 18:23:35 -0500",
+      "erupting_inferno": "2025-01-06 11:49:46 -0500",
+      "lush_savanna": "2025-01-17 18:47:59 -0500",
+      "marsh": "2025-01-17 18:20:17 -0500",
+      "clover_patch": "2025-01-16 16:46:38 -0500",
+      "mystic_grove": "2025-01-06 12:45:42 -0500",
+      "old_growth_woodland": "2025-01-08 16:44:19 -0500",
+      "wooded_wasteland": "2025-01-08 16:11:02 -0500",
+      "field": "2025-01-16 16:36:58 -0500",
+      "mediterranean_forest": "2025-01-17 18:57:34 -0500",
+      "spider_nest": "2025-01-14 06:14:02 -0500",
+      "dryland": "2025-01-17 18:29:17 -0500",
+      "wasteland": "2025-01-17 18:34:37 -0500",
+      "lush_desert": "2025-01-17 18:35:29 -0500",
+      "redwood_forest": "2025-01-06 12:45:38 -0500",
+      "cherry_blossom_grove": "2025-01-06 12:45:44 -0500",
+      "visceral_heap": "2025-01-09 10:17:48 -0500",
+      "dune_beach": "2025-01-06 13:45:05 -0500",
+      "volcano": "2025-01-17 18:49:28 -0500",
+      "rocky_rainforest": "2025-01-06 11:36:21 -0500",
+      "volcanic_plains": "2025-01-08 16:11:01 -0500",
+      "grassland": "2025-01-06 12:48:08 -0500",
+      "glowing_grotto": "2025-01-06 13:45:57 -0500",
+      "undergrowth": "2025-01-14 16:27:29 -0500",
+      "rainforest": "2025-01-06 12:12:42 -0500"
+    },
+    "done": false
+  },
+  "quark:mine_toretoise": {
+    "criteria": {
+      "mine_toretoise": "2025-01-07 09:55:55 -0500"
+    },
+    "done": true
+  },
+  "create:crushing_wheel": {
+    "criteria": {
+      "0": "2025-01-07 11:37:18 -0500"
+    },
+    "done": true
+  },
+  "enemyexpansion:vampire_slayer": {
+    "criteria": {
+      "vampire_slayer_0": "2025-01-07 11:57:20 -0500"
+    },
+    "done": true
+  },
+  "create:saw_processing": {
+    "criteria": {
+      "0": "2025-01-11 16:10:05 -0500"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-01-18 16:45:50 -0500"
+    },
+    "done": true
+  },
+  "create:train_whistle": {
+    "criteria": {
+      "0": "2025-01-11 18:24:17 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:deep_ocean": "2025-01-16 16:32:01 -0500",
+      "minecraft:birch_forest": "2025-01-06 12:45:52 -0500",
+      "minecraft:windswept_hills": "2025-01-18 08:13:22 -0500",
+      "minecraft:bamboo_jungle": "2025-01-06 16:06:22 -0500",
+      "minecraft:wooded_badlands": "2025-01-17 18:50:50 -0500",
+      "minecraft:badlands": "2025-01-17 18:50:53 -0500",
+      "minecraft:beach": "2025-01-06 12:14:09 -0500",
+      "minecraft:dark_forest": "2025-01-09 13:03:49 -0500",
+      "minecraft:mangrove_swamp": "2025-01-17 18:28:02 -0500",
+      "minecraft:sparse_jungle": "2025-01-06 11:18:39 -0500",
+      "minecraft:river": "2025-01-06 11:19:02 -0500",
+      "minecraft:lukewarm_ocean": "2025-01-06 16:06:28 -0500",
+      "minecraft:stony_shore": "2025-01-16 16:38:07 -0500",
+      "minecraft:dripstone_caves": "2025-01-18 08:02:26 -0500",
+      "minecraft:forest": "2025-01-06 12:16:21 -0500",
+      "minecraft:lush_caves": "2025-01-06 13:47:39 -0500",
+      "minecraft:desert": "2025-01-08 16:17:21 -0500",
+      "minecraft:jungle": "2025-01-06 11:19:10 -0500",
+      "minecraft:ocean": "2025-01-06 12:49:54 -0500",
+      "minecraft:windswept_savanna": "2025-01-17 18:20:14 -0500",
+      "minecraft:warm_ocean": "2025-01-17 18:46:35 -0500",
+      "minecraft:deep_lukewarm_ocean": "2025-01-16 16:41:24 -0500",
+      "minecraft:old_growth_birch_forest": "2025-01-06 13:45:48 -0500",
+      "minecraft:savanna": "2025-01-10 15:26:46 -0500",
+      "minecraft:plains": "2025-01-06 11:52:20 -0500"
+    },
+    "done": false
+  },
+  "create:andesite_casing": {
+    "criteria": {
+      "0": "2025-01-06 13:51:03 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-01-06 13:16:45 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-01-06 12:30:33 -0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-01-06 11:22:14 -0500"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/leafcutter_ant_pupa": {
+    "criteria": {
+      "leafcutter_ant_pupa": "2025-01-09 08:46:07 -0500"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/tarantula_hawk": {
+    "criteria": {
+      "killed_by": "2025-01-18 08:38:17 -0500"
+    },
+    "done": true
+  },
+  "quark:apply_color_rune": {
+    "criteria": {
+      "apply_color_rune": "2025-01-18 09:05:19 -0500"
+    },
+    "done": true
+  },
+  "create:shifting_gears": {
+    "criteria": {
+      "0": "2025-01-06 13:53:33 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-01-06 11:47:09 -0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "supplementaries:flax": "2025-01-06 12:40:57 -0500"
+    },
+    "done": true
+  },
+  "create:train_casing_00": {
+    "criteria": {
+      "0": "2025-01-07 17:31:50 -0500"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-01-06 18:41:34 -0500"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/kill_illager": {
+    "criteria": {
+      "revolver_kill": "2025-01-08 16:30:07 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-01-06 11:18:38 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:blaze": "2025-01-06 11:47:45 -0500",
+      "minecraft:pillager": "2025-01-06 11:54:15 -0500",
+      "minecraft:skeleton": "2025-01-06 12:29:53 -0500",
+      "minecraft:ravager": "2025-01-14 09:09:50 -0500",
+      "minecraft:vindicator": "2025-01-14 09:02:03 -0500",
+      "minecraft:magma_cube": "2025-01-06 11:47:09 -0500",
+      "minecraft:spider": "2025-01-06 12:29:09 -0500",
+      "minecraft:creeper": "2025-01-06 12:27:35 -0500",
+      "minecraft:evoker": "2025-01-06 11:55:07 -0500",
+      "minecraft:slime": "2025-01-06 13:44:04 -0500",
+      "minecraft:phantom": "2025-01-09 09:48:34 -0500",
+      "minecraft:witch": "2025-01-06 11:55:27 -0500",
+      "minecraft:cave_spider": "2025-01-17 18:26:55 -0500",
+      "minecraft:silverfish": "2025-01-07 11:57:48 -0500",
+      "minecraft:enderman": "2025-01-11 14:16:15 -0500",
+      "minecraft:zombie": "2025-01-06 12:38:57 -0500",
+      "minecraft:drowned": "2025-01-08 13:56:38 -0500"
+    },
+    "done": false
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-01-06 11:46:19 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-01-11 18:06:49 -0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-01-16 06:57:02 -0500"
+    },
+    "done": true
+  },
+  "create:train_roadkill": {
+    "criteria": {
+      "0": "2025-01-08 15:56:46 -0500"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/robe": {
+    "criteria": {
+      "has_item": "2025-01-06 12:36:32 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-01-16 07:45:02 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "golden_knife": "2025-01-17 18:50:31 -0500"
+    },
+    "done": true
+  },
+  "create:encased_fan": {
+    "criteria": {
+      "0": "2025-01-12 13:54:12 -0500"
+    },
+    "done": true
+  },
+  "enemyexpansion:troll_hunter": {
+    "criteria": {
+      "troll_hunter_0": "2025-01-06 12:59:42 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2025-01-09 06:48:27 -0500"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-01-06 11:52:00 -0500",
+      "minecraft:basalt_deltas": "2025-01-06 11:46:20 -0500",
+      "minecraft:warped_forest": "2025-01-06 11:52:09 -0500"
+    },
+    "done": false
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-01-11 16:27:35 -0500"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/heavy": {
+    "criteria": {
+      "has_item": "2025-01-06 13:51:39 -0500"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2025-01-06 11:18:38 -0500"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_recipe": "2025-01-06 11:18:38 -0500"
+    },
+    "done": true
+  },
+  "quark:wear_full_rainbow": {
+    "criteria": {
+      "wear_full_rainbow": "2025-01-18 09:21:23 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-01-07 10:07:36 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-01-06 11:22:04 -0500"
+    },
+    "done": true
+  },
+  "create:fan_processing": {
+    "criteria": {
+      "0": "2025-01-12 13:56:30 -0500"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2025-01-06 11:22:14 -0500"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/warrior": {
+    "criteria": {
+      "has_item": "2025-01-06 12:29:54 -0500"
+    },
+    "done": true
+  },
+  "create:water_supply": {
+    "criteria": {
+      "0": "2025-01-11 17:27:19 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-01-06 12:55:36 -0500"
+    },
+    "done": true
+  },
+  "create:brass_casing": {
+    "criteria": {
+      "0": "2025-01-06 18:33:37 -0500"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2025-01-10 16:10:19 -0500"
+    },
+    "done": true
+  },
+  "create:belt": {
+    "criteria": {
+      "0": "2025-01-12 13:39:51 -0500"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/wooden": {
+    "criteria": {
+      "has_item": "2025-01-06 11:19:34 -0500"
+    },
+    "done": true
+  },
+  "DataVersion": 3120
+}
