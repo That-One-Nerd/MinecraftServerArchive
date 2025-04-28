@@ -1,0 +1,18 @@
+{
+	id: "6b69880b-e482-4d12-812a-6c7055bc9bb3"
+	type: "player"
+	player_name: "That__One__Nerd"
+	ranks: {
+		6b69880b-e482-4d12-812a-6c7055bc9bb3: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "That__One__Nerd"
+		"ftbteams:color": "#59FF8A"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+	}
+	message_history: [ ]
+	extra: {
+		Money: 563L
+	}
+}

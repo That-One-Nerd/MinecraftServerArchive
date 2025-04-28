@@ -1,0 +1,16 @@
+{
+	id: "0409a17b-05be-4a99-be42-7db7fffc02c0"
+	type: "player"
+	player_name: "MargaretTheFool"
+	ranks: {
+		0409a17b-05be-4a99-be42-7db7fffc02c0: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "MargaretTheFool"
+		"ftbteams:color": "#FF5961"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+	}
+	message_history: [ ]
+	extra: { }
+}

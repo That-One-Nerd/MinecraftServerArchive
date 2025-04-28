@@ -1,0 +1,18 @@
+{
+	id: "73feffd4-0a11-443b-ae03-9d8e7ff49590"
+	type: "player"
+	player_name: "DaemonUser"
+	ranks: {
+		73feffd4-0a11-443b-ae03-9d8e7ff49590: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "DaemonUser"
+		"ftbteams:color": "#59FF7B"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+	}
+	message_history: [ ]
+	extra: {
+		Money: 116L
+	}
+}
